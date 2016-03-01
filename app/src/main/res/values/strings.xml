@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">App Portfolio</string>
+    <string name="title">App Portfolio</string>
+    <string name="btn_streamer">Spotify Streamer</string>
+    <string name="btn_scores">Scores App</string>
+    <string name="btn_library">Library App</string>
+    <string name="btn_bigger">Build it Bigger</string>
+    <string name="btn_reader">XYZ Reader</string>
+    <string name="btn_capstone">Capstone: My Own App</string>
+</resources>
